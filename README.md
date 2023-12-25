@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![Screenshot 2023-12-25 183442](https://github.com/PREM3112/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/145449383/0d3ecccd-9256-4c08-8bee-fbe6255f8c40)
+![Screenshot 2023-12-25 183641](https://github.com/PREM3112/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/145449383/022831bf-26a7-4d9b-a6e6-21aab4288504)
+
 
 
 ## RESULT:
